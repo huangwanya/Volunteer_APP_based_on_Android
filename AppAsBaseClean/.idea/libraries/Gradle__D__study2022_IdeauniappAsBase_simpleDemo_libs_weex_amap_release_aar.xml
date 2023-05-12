@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D./study2022/IdeauniappAsBase/simpleDemo/libs/weex_amap-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b56bbfa9e6ffceff913798cc96de050e/jetified-weex_amap-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b56bbfa9e6ffceff913798cc96de050e/jetified-weex_amap-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b56bbfa9e6ffceff913798cc96de050e/jetified-weex_amap-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

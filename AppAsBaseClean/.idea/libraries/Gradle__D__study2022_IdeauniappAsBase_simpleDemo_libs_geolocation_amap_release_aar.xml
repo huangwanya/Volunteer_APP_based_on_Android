@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D./study2022/IdeauniappAsBase/simpleDemo/libs/geolocation-amap-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f5fd6652afbd88aa13207d9115445aa/jetified-geolocation-amap-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f5fd6652afbd88aa13207d9115445aa/jetified-geolocation-amap-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f5fd6652afbd88aa13207d9115445aa/jetified-geolocation-amap-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
